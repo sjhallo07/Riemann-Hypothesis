@@ -1,0 +1,30 @@
+AMPLITUD (Y)
+   ^
+   |   *               *               *               *
+   |  / \             / \             / \             / \
+   | /   \           /   \           /   \           /   \
+   |/     \         /     \         /     \         /     \
+   |       \       /       \       /       \       /       \
+   |        \     /         \     /         \     /         \
+   |         \   /           \   /           \   /           \
+   |          \ /             \ /             \ /             \
+   |           *               *               *               *
+   |          / \             / \             / \             / \
+   |         /   \           /   \           /   \           /   \
+   |        /     \         /     \         /     \         /     \
+   |       /       \       /       \       /       \       /       \
+   |      /         \     /         \     /         \     /         \
+   |     /           \   /           \   /           \   /           \
+   |    /             \ /             \ /             \ /             \
+   |   *               *               *               *               *
+   |  / \             / \             / \             / \             / \
+   | /   \           /   \           /   \           /   \           /   \
+   |/     \         /     \         /     \         /     \         /     \
+   *-------*-------*-------*-------*-------*-------*-------*-------*-------*------->
+   0     10       14.1    20      25      30      35      40      45      50   (α)
+
+   Leyenda:
+   * = Cero no trivial (móvil). Se desplaza horizontalmente al variar β.
+   --- = Línea base (fondo quieto).
+   / \ = Onda estacionaria generada por la interferencia de +0 y -0.
+   Los ceros triviales (quietos) no se ven porque están en el eje real negativo (fuera de este rango).
