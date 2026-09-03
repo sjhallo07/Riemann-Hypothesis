@@ -1,0 +1,21 @@
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│              NULL FOCK FIELD THEORY AND THE                     │
+│   FACTORIAL STRUCTURE OF THE RIEMANN ZEROS: A FULL DIMENSIONAL │
+│                     SWEEP APPROACH                             │
+│                                                                 │
+│                                                                 │
+│                    Marcos Alejandro Mora Abreu                  │
+│                                                                 │
+│                Valencia, Venezuela – 05/04/1980                 │
+│                                                                 │
+│         "El origen de todo es el número 1 y el primo 2."       │
+│                                                                 │
+│         ╔═══════════════════════════════════════════════╗        │
+│         ║   MATRIZ DE CIERRE FINAL 15x15  (ρ_15D)      ║        │
+│         ║   RANGO 1 · SIMÉTRICA · AUTOADJUNTA          ║        │
+│         ║   DET(ρ_15D - α²/(16π²) I) = 0              ║        │
+│         ╚═══════════════════════════════════════════════╝        │
+│                                                                 │
+│              (C) 2026 – Todos los derechos reservados           │
+└─────────────────────────────────────────────────────────────────┘

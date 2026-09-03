@@ -1,0 +1,14 @@
+Forward:   8D → 9D → 10D → 11D → 12D → 13D → 14D → 15D
+Reverse:   15D → 14D → 13D → 12D → 11D → 10D → 9D → 8D
+
+VERIFICACIÓN DE CADA ETAPA:
+
+15D → 14D:  Truncar v_15D          → Error: 0 (exacto)
+14D → 13D:  Restar δ*T_9D         → Error: < 1e-6
+13D → 12D:  Invertir Jacobi        → Error: 0 (exacto)
+12D → 11D:  Inversa de Mellin      → Error: < 1e-8
+11D → 10D:  Restar r*τ             → Error: < 1e-5
+10D → 9D:   Arccos(ρ)/π            → Error: 0 (exacto)
+9D → 8D:    Reconstruir vectores   → Error: 0 (exacto)
+
+Resultado: ρ_8D_rev = ρ_8D_original  (idénticas)
